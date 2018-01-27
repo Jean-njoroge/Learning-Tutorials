@@ -11,4 +11,5 @@ This folder includes notes and learning Material on Python
 This Folder includes DS Interview Questions + Answers and resources to learn more
 
 ## Blogs
-EDA: http://blog.districtdatalabs.com/data-exploration-with-python-1
+1. EDA: http://blog.districtdatalabs.com/data-exploration-with-python-1
+2. Jupyter note book collections : https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks#other-publications-and-conference-abstracts-that-explicitly-use-the-notebook
